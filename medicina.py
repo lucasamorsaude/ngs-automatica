@@ -41,7 +41,7 @@ def coletar_dados():
     chrome_options = Options()
     chrome_options.add_argument(f"--user-data-dir={os.path.abspath(pasta_cache)}")
     chrome_options.add_argument("--window-size=1920,1080")
-    # chrome_options.add_argument("--headless")  # Ativa se quiser rodar sem abrir janela
+    chrome_options.add_argument("--headless")  # Ativa se quiser rodar sem abrir janela
 
     driver = webdriver.Chrome(options=chrome_options)
 
