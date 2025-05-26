@@ -141,7 +141,7 @@ def coletar_dados():
         time.sleep(5)
         # Obter valor da efetivação total
         novos_cadastrados = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/app-layout/div/div/app-indicador/div/section[2]/div/div[1]/div[2]/app-painel-resultado-mensal/div[1]/div/div[1]/h3"))).text
-        novos_cadastrados = novos_cadastrados.replace("R$ ", "")
+        novos_cadastrados = novos_cadastrados.replace("R$ ", "").replace(",00","")
 
 
 
@@ -181,7 +181,7 @@ def coletar_dados():
             f"*T.M. Exames:* R${tm_exames}\n"
             f"*Caixa total:* R${valor_caixa_total}\n"
             f"*Efetivação total:* R${valor_efetivacao_total}\n"
-            f"Novos Cadastrados: {novos_cadastrados}"
+            f"*Novos Cadastrados:* {novos_cadastrados}"
         )
         
         try:
