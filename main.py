@@ -1,7 +1,6 @@
 # main.py
 
-import medicina
-import odonto
+import dados
 import gerar_powerpoint
 import converter_imagens
 import enviar_slack
@@ -9,19 +8,12 @@ import enviar_slack
 def main():
     try:
         print("Iniciando coleta de dados de Medicina...")
-        medicina.coletar_dados()
+        dados.coletar_dados()
         print("✓ Medicina OK")
     except Exception as e:
         print(f"Erro na coleta de dados de Medicina: {e}")
         return
 
-    try:
-        print("Iniciando coleta de dados de Odontologia...")
-        odonto.coletar_dados()
-        print("✓ Odontologia OK")
-    except Exception as e:
-        print(f"Erro na coleta de dados de Odontologia: {e}")
-        return
 
     try:
         print("Gerando apresentação PowerPoint...")
