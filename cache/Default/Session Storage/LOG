@@ -1,6 +1,15 @@
-2025/05/27-11:17:31.704 4cd4 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/MANIFEST-000001
-2025/05/27-11:17:31.706 4cd4 Recovering log #86
-2025/05/27-11:17:31.710 4cd4 Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/000086.log 
-2025/05/27-11:17:48.887 2410 Level-0 table #90: started
-2025/05/27-11:17:48.893 2410 Level-0 table #90: 51632 bytes OK
-2025/05/27-11:17:48.894 2410 Delete type=0 #86
+2025/05/28-17:29:28.977 f28 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/MANIFEST-000001
+2025/05/28-17:29:28.979 f28 Recovering log #101
+2025/05/28-17:29:28.984 f28 Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/000101.log 
+2025/05/28-17:29:43.615 6178 Level-0 table #105: started
+2025/05/28-17:29:43.622 6178 Level-0 table #105: 52159 bytes OK
+2025/05/28-17:29:43.624 6178 Delete type=0 #101
+2025/05/28-17:29:43.625 6178 Compacting 4@0 + 1@1 files
+2025/05/28-17:29:43.633 6178 Generated table #106@0: 16 keys, 37195 bytes
+2025/05/28-17:29:43.633 6178 Compacted 4@0 + 1@1 files => 37195 bytes
+2025/05/28-17:29:43.634 6178 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/28-17:29:43.634 6178 Delete type=2 #94
+2025/05/28-17:29:43.635 6178 Delete type=2 #96
+2025/05/28-17:29:43.635 6178 Delete type=2 #99
+2025/05/28-17:29:43.635 6178 Delete type=2 #102
+2025/05/28-17:29:43.635 6178 Delete type=2 #105

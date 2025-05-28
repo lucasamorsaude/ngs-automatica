@@ -38,3 +38,5 @@ def gerar():
         ppt = Presentation(modelo)
         substituir_texto(ppt, dados)
         ppt.save(destino)
+
+gerar()

@@ -1,11 +1,6 @@
-2025/05/27-11:15:10.960 44b4 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/MANIFEST-000001
-2025/05/27-11:15:10.964 44b4 Recovering log #39
-2025/05/27-11:15:10.965 44b4 Level-0 table #42: started
-2025/05/27-11:15:10.974 44b4 Level-0 table #42: 72511 bytes OK
-2025/05/27-11:15:10.975 44b4 Recovering log #42
-2025/05/27-11:15:10.978 44b4 Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/000042.log 
-2025/05/27-11:15:10.989 44b4 Delete type=0 #39
-2025/05/27-11:15:10.989 44b4 Delete type=2 #43
-2025/05/27-11:15:59.840 7ab8 Level-0 table #44: started
-2025/05/27-11:15:59.866 7ab8 Level-0 table #44: 72270 bytes OK
-2025/05/27-11:15:59.870 7ab8 Delete type=0 #42
+2025/05/28-17:28:01.227 681c Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/28-17:28:01.234 681c Recovering log #53
+2025/05/28-17:28:01.237 681c Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/000053.log 
+2025/05/28-17:28:51.002 5fa4 Level-0 table #57: started
+2025/05/28-17:28:51.010 5fa4 Level-0 table #57: 72420 bytes OK
+2025/05/28-17:28:51.012 5fa4 Delete type=0 #53

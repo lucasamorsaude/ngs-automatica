@@ -176,7 +176,7 @@ def coletar_dados():
             {"Indicador": "R$_FATURAMENTO_MED", "Valor": faturamento_medicina},
             {"Indicador": "R$_TM_MEDIO_MEDICINA", "Valor": tm_faturamento_medicina},
             {"Indicador": "R$_EXAMES_LABORATORIAIS", "Valor": valor_exames},
-            {"Indicador": "R$_TM_EXAMES_LABORATORIAIS", "Valor": tm_exames},
+            {"Indicador": "TM_EXAMES_LABORATORIAIS", "Valor": tm_exames},
             {"Indicador": "R$_CAIXA_TOTAL", "Valor": valor_caixa_total},
             {"Indicador": "R$_EFETIVACAO_TOTAL", "Valor": valor_efetivacao_total},
             {"Indicador": "NOVOS_PACIENTES", "Valor": novos_cadastrados},

@@ -1,8 +1,6 @@
-2025/05/27-11:15:10.949 7ab8 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/MANIFEST-000001
-2025/05/27-11:15:10.964 7ab8 Recovering log #80
-2025/05/27-11:15:10.964 7ab8 Level-0 table #84: started
-2025/05/27-11:15:10.971 7ab8 Level-0 table #84: 24989 bytes OK
-2025/05/27-11:15:10.975 7ab8 Delete type=0 #80
-2025/05/27-11:15:33.609 44b4 Level-0 table #87: started
-2025/05/27-11:15:33.615 44b4 Level-0 table #87: 91082 bytes OK
-2025/05/27-11:15:33.617 44b4 Delete type=0 #85
+2025/05/28-17:28:01.225 5fa4 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/MANIFEST-000001
+2025/05/28-17:28:01.234 5fa4 Recovering log #98
+2025/05/28-17:28:01.239 5fa4 Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Session Storage/000098.log 
+2025/05/28-17:28:18.056 681c Level-0 table #102: started
+2025/05/28-17:28:18.061 681c Level-0 table #102: 52722 bytes OK
+2025/05/28-17:28:18.064 681c Delete type=0 #98

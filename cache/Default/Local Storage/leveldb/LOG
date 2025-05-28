@@ -1,15 +1,15 @@
-2025/05/27-11:17:31.602 4cd4 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/MANIFEST-000001
-2025/05/27-11:17:31.614 4cd4 Recovering log #43
-2025/05/27-11:17:31.617 4cd4 Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/000043.log 
-2025/05/27-11:18:14.978 4cd4 Level-0 table #47: started
-2025/05/27-11:18:14.984 4cd4 Level-0 table #47: 72413 bytes OK
-2025/05/27-11:18:14.987 4cd4 Delete type=0 #43
-2025/05/27-11:18:14.988 4cd4 Compacting 4@0 + 1@1 files
-2025/05/27-11:18:15.034 4cd4 Generated table #48@0: 27 keys, 132990 bytes
-2025/05/27-11:18:15.035 4cd4 Compacted 4@0 + 1@1 files => 132990 bytes
-2025/05/27-11:18:15.035 4cd4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/27-11:18:15.036 4cd4 Delete type=2 #37
-2025/05/27-11:18:15.036 4cd4 Delete type=2 #40
-2025/05/27-11:18:15.036 4cd4 Delete type=2 #42
-2025/05/27-11:18:15.037 4cd4 Delete type=2 #44
-2025/05/27-11:18:15.037 4cd4 Delete type=2 #47
+2025/05/28-17:29:28.882 f28 Reusing MANIFEST C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/28-17:29:28.890 f28 Recovering log #56
+2025/05/28-17:29:28.895 f28 Reusing old log C:\Users\DESKTOP\Desktop\COISAS ALEATÓRIAS\Programas PY\Slide de Resultados Automático\ngs-automatica\cache\Default\Local Storage\leveldb/000056.log 
+2025/05/28-17:30:16.706 6178 Level-0 table #60: started
+2025/05/28-17:30:16.712 6178 Level-0 table #60: 72421 bytes OK
+2025/05/28-17:30:16.714 6178 Delete type=0 #56
+2025/05/28-17:30:16.715 6178 Compacting 4@0 + 1@1 files
+2025/05/28-17:30:16.729 6178 Generated table #61@0: 27 keys, 132957 bytes
+2025/05/28-17:30:16.738 6178 Compacted 4@0 + 1@1 files => 132957 bytes
+2025/05/28-17:30:16.771 6178 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/28-17:30:16.773 6178 Delete type=2 #48
+2025/05/28-17:30:16.773 6178 Delete type=2 #51
+2025/05/28-17:30:16.773 6178 Delete type=2 #54
+2025/05/28-17:30:16.773 6178 Delete type=2 #57
+2025/05/28-17:30:16.773 6178 Delete type=2 #60
